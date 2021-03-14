@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Employee Management</string>
+    <string name="ripon_name">Ripon Ahmed</string>
+    <string name="ripon_details">Lorem ipsum dolor sit amet,\n\ consectetur adipisicing elit. Ad architecto, atque eligendi eos facere fuga impedit iure minima molestiae nam nesciunt nisi numquam quam quis repellendus sint suscipit, totam vero.</string>
+
+    <string name="sunny_name">Sunny</string>
+    <string name="sunny_details">Lorem ipsum dolor sit amet,\n\ consectetur adipisicing elit. Ad architecto, atque eligendi eos facere fuga impedit iure minima molestiae nam nesciunt nisi numquam quam quis repellendus sint suscipit, totam vero.</string>
+
+    <string name="feroz_name">Feroz</string>
+    <string name="feroz_details">Lorem ipsum dolor sit amet,\n\ consectetur adipisicing elit. Ad architecto, atque eligendi eos facere fuga impedit iure minima molestiae nam nesciunt nisi numquam quam quis repellendus sint suscipit, totam vero.</string>
+
+    <string name="arif_name">Arif</string>
+    <string name="arif_details">Lorem ipsum dolor sit amet,\n\ consectetur adipisicing elit. Ad architecto, atque eligendi eos facere fuga impedit iure minima molestiae nam nesciunt nisi numquam quam quis repellendus sint suscipit, totam vero.</string>
+</resources>
